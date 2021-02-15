@@ -5,7 +5,6 @@ export const cardStyles = css.global`
       width: 500px;
       padding: 2%;
       margin: auto;
-      border: solid;
     }
 
     .photo{
@@ -13,17 +12,7 @@ export const cardStyles = css.global`
       margin-left: 25%;
       margin-bottom: 15%;
     }
-
-    .title{
-      text-align: center;
-      color: #000;
-    }
-
-    .quote{
-      text-align: center;
-      font-size: 18px;
-    }
-
+    
     .random{
       width: 100%;
       margin: auto;
